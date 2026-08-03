@@ -55,9 +55,7 @@ An AI-powered platform that generates production-ready full-stack applications f
 
 ## 🖥 Platform Walkthrough
 
-```
-[assets/platform-demo.mp4](https://drive.google.com/drive/folders/19iEBML7CxSyP4fvyGlJNynumo4Xv3z-L?usp=sharing)
-```
+[platform-demo](https://drive.google.com/drive/folders/19iEBML7CxSyP4fvyGlJNynumo4Xv3z-L?usp=sharing)
 
 ---
 
